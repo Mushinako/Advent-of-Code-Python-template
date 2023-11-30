@@ -1,6 +1,6 @@
-# Advent-of-Code-2022
+# Advent of Code Python Template
 
-My solutions to [Advent of Code 2022](https://adventofcode.com/2022)
+My solutions to [Advent of Code](https://adventofcode.com/)
 
 **SPOILER ALERT:** This repository contains contest solutions. The solutions will be
 uploaded at least 30 minutes after the start of each day's contest.
